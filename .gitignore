@@ -1,0 +1,8 @@
+
+*.ckpt
+*.ply
+*.mp4
+*.zip
+*.whl
+data/
+outputs/

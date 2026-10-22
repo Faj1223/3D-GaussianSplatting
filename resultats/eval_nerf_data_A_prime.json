@@ -1,0 +1,17 @@
+{
+  "experiment_name": "nerf_data_A_prime",
+  "method_name": "splatfacto",
+  "checkpoint": "/kaggle/working/outputs/nerf_data_A_prime/splatfacto/2026-10-14_105020/nerfstudio_models/step-000006999.ckpt",
+  "results": {
+    "psnr": 19.306774139404297,
+    "psnr_std": 2.347167730331421,
+    "ssim": 0.6981781721115112,
+    "ssim_std": 0.04113740101456642,
+    "lpips": 0.5130966305732727,
+    "lpips_std": 0.05181823670864105,
+    "num_rays_per_sec": 1205498.375,
+    "num_rays_per_sec_std": 132456.34375,
+    "fps": 0.8371516466140747,
+    "fps_std": 0.09198357164859772
+  }
+}

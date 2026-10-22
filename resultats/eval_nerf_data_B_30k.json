@@ -1,0 +1,17 @@
+{
+  "experiment_name": "nerf_data_B_30k",
+  "method_name": "splatfacto",
+  "checkpoint": "/kaggle/working/outputs/nerf_data_B_30k/splatfacto/2026-10-16_115053/nerfstudio_models/step-000029999.ckpt",
+  "results": {
+    "psnr": 20.596263885498047,
+    "psnr_std": 4.153717994689941,
+    "ssim": 0.7378933429718018,
+    "ssim_std": 0.0656987801194191,
+    "lpips": 0.4603177309036255,
+    "lpips_std": 0.10047487169504166,
+    "num_rays_per_sec": 24074924.0,
+    "num_rays_per_sec_std": 3981114.0,
+    "fps": 16.71869659423828,
+    "fps_std": 2.764662504196167
+  }
+}
