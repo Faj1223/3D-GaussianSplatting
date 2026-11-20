@@ -122,3 +122,5 @@ For Phase 2:
 
 Adbias Houessou — M2 student, personal project.
 <!-- Optional: "Code written with the help of an AI assistant; experiment design and analysis are my own." -->
+
+Phase 1 notebooks are written in French, Phase 2 notebooks in English. 
