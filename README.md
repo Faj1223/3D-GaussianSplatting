@@ -1,5 +1,7 @@
 # SynthaDrive: reconstructing and editing driving scenes with Gaussian Splatting (nuScenes)
 
+![Lidar view](resultats/lidar.png)
+
 > Status: Phase 1 (vanilla 3DGS) and Phase 2 (OmniRe) done; Phase 3 (editing road users to create edge cases) in progress.
 > The notebooks are exploratory research code; a cleaned-up version is planned.
 
